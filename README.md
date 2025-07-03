@@ -5,20 +5,6 @@ description: >-
   ensure everything runs smoothly.
 cover: .gitbook/assets/PreTest Setup.PNG
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Pre-Test Setup Guide
@@ -33,8 +19,8 @@ layout:
 ### Clone the Project
 
 ```bash
-git clone https://github.com/Tirios-Labs/GoldenCity.git
-cd GoldenCity
+git clone https://github.com/onboarding-resources/real-world-asset.git
+cd real-world-asset
 ```
 
 ### Install Dependencies
