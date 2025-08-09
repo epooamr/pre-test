@@ -37,6 +37,12 @@ yarn install
 
 ### Test It Works (Optional)
 
+After installing the module, start the project using the following command:
+
+```
+npm start
+```
+
 Once the app starts:
 
 * Open your browser and go to `http://localhost:5173`
