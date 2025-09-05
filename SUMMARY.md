@@ -4,11 +4,8 @@
 
 ## Stay Connected
 
-* [Website](https://tirios.ai)
-* [LinkedIn](https://www.linkedin.com/company/tirios)
-* [X (Twitter)](https://x.com/tirios_ai)
+* [Website](https://pictet.com/)
+* [LinkedIn](https://www.linkedin.com/company/pictet-asset-management)
+* [X (Twitter)](https://x.com/PictetAM)
 * [Instagram](https://www.instagram.com/tirios_ai)
-
-***
-
-* [Tiktok](https://www.tiktok.com/@tirios_ai)
+* [Youtube](https://www.youtube.com/c/PictetAssetManagement)

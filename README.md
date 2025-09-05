@@ -20,6 +20,9 @@ coverY: 0
 
 ```bash
 git clone https://github.com/onboarding-resources/real-world-asset.git
+```
+
+```
 cd real-world-asset
 ```
 
@@ -27,12 +30,6 @@ cd real-world-asset
 
 ```bash
 npm install
-```
-
-Or if using yarn
-
-```bash
-yarn install
 ```
 
 ### Test It Works (Optional)
@@ -52,4 +49,4 @@ Once the app starts:
 
 Once you've confirmed that the environment is working and scheduled the meeting on Calendly, just let us know you're ready to proceed.
 
-Feel free to book a time that works for you using this link: [https://calendly.com/tirios-corp/30min](https://calendly.com/tirios-corp/30min)
+Feel free to book a time that works for you using this link: [https://calendly.com/pictet/30min](https://calendly.com/pictet/30min)
