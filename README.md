@@ -13,7 +13,7 @@ coverY: 0
 
 * \[Optional] A working **code editor** (e.g., VS Code, Sublime Text)
 * **Terminal** or Command Line Interface
-* **Node.js** (v20.x)&#x20;
+* **Node.js** (v20.x)
 * \[Optional] Git installed locally
 
 ### Clone the Project
@@ -49,4 +49,4 @@ Once the app starts:
 
 Once you've confirmed that the environment is working and scheduled the meeting on Calendly, just let us know you're ready to proceed.
 
-Feel free to book a time that works for you using this link: [https://calendly.com/pictet/30min](https://calendly.com/pictet/30min)
+Feel free to book a time that works for you using this link: [https://calendly.com/pictetam/30min](https://calendly.com/pictet/30min)
