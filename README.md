@@ -49,4 +49,4 @@ Once the app starts:
 
 Once you've confirmed that the environment is working and scheduled the meeting on Calendly, just let us know you're ready to proceed.
 
-Feel free to book a time that works for you using this link: [https://calendly.com/pictetam/30min](https://calendly.com/pictet/30min)
+Feel free to book a time that works for you using this link: [https://calendly.com/kodiuslabs/30min](https://calendly.com/kodiuslabs/30min)
